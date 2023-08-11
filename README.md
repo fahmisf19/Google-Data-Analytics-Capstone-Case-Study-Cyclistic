@@ -24,14 +24,15 @@ For this project, i downloaded 12 CSV files comprising data from July to Decembe
 I used PostgreSQL on PGAdmin 4 to combine and clean the data.
 
 ### Data Combination
+You can view my queries for data combination [here](combine_datasets.sql)
 1. Created 12 table for each dataset and copy the CSV files to the tables.
 
 2. Combined all 12 tables into one table called 'combined_tripdata'. The combined table contains 5.779.444 rows and has 13 columns. Below is the name of each column and its data type.
-[Image of dataset]
+![Image](img\datatype.png)
 
 ### Data Exploration
 
-I ran queries on each column, documenting data that required cleaning. You can view my queries Here [link Github] on GitHub. Here's a brief overview of my findings:
+I ran queries on each column, documenting data that required cleaning. You can view my queries Here [here](data_exploration.sql) on GitHub. Here's a brief overview of my findings:
 
 * ride_id: it consist of 16 characters, uniformly across all entry, totaling 5.779.444 entry. This aligns with the total dataset count, where each ride_id is unique.
 
@@ -47,7 +48,7 @@ I ran queries on each column, documenting data that required cleaning. You can v
 
 ### Data Cleaning
 
-Upon completing the initial data exploration, I've identified which data requiring cleaning and which columns can be created to enhance our analysis. You can view my queries here [github link] on Github. Here's a brief overview of the cleaning steps that i took:
+Upon completing the initial data exploration, I've identified which data requiring cleaning and which columns can be created to enhance our analysis. You can view my queries [here](data_cleaning.sql) on Github. Here's a brief overview of the cleaning steps that i took:
 1. removed trip that less than/equal to one minute and more than/equal to one day.
 2. removed trip where the type of bike used are classic_bike and docked_bike and they don't have start or end station.
 3. removed trips that had null vales in either its start_lat, start_ltd, end_lat, end_ltd
