@@ -28,7 +28,8 @@ You can view my queries for data combination [here](combine_datasets.sql)
 1. Created 12 table for each dataset and copy the CSV files to the tables.
 
 2. Combined all 12 tables into one table called 'combined_tripdata'. The combined table contains 5.779.444 rows and has 13 columns. Below is the name of each column and its data type.
-![Image](img\datatype.png)
+
+<img src="img/datatype.png" alt= "image" width="40%" height="40%">
 
 ### Data Exploration
 
