@@ -25,7 +25,7 @@ I used **PostgreSQL** on **PGAdmin 4** to combine and clean the data.
 
 ### Data Combination
 You can view my queries for data combination [here](combine_datasets.sql)
-1. Created **12 table** for each dataset and copy the CSV files to the tables.
+1. Created **12 tables** for each dataset and copy the CSV files to the tables.
 
 2. Combined all 12 tables into one table called **'combined_tripdata'**. The combined table contains 5.779.444 rows and has 13 columns. Below is the name of each column and its data type.
 
@@ -58,9 +58,43 @@ Upon completing the initial data exploration, I've identified which data requiri
 6. created month, day_of_week, hour to assist our analysis.
 The combined and cleaned table has 5.622.690 rows.
 
-
 ## Analyze
 
+As the data now thoroughly cleaned , it's time to analyze the data and answer the question: **"How do annual members and casual riders use Cyclistic bikes differently?"**
+
+To conduct this analysis, I used **SQL** to sort, filter, and aggregate the data. You can access my SQL analysis queries [here](analyze.sql). 
+
 ## Share
+
+I utilized Tableau to visualize the outcomes of the earlier analysis queries. You can access all my Tableau visualizations [here](https://public.tableau.com/app/profile/fahmi.sabila.firdaus/viz/GoogleDataAnalyticsCapstoneProjectCaseStudy1Cylistic/Sheet7).
+
+### Total Rides by Bike Types
+<img src="img/Rides by Bike Types.png" alt= "image" width="70%" height="70%">
+
+### Total Rides by Months
+<img src="img/Rides by Months.png" alt= "image" width="70%" height="70%">
+
+### Total Rides by Day of Week
+<img src="img/Rides by Day of Week.png" alt= "image" width="70%" height="70%">
+
+### Total Rides by Hour
+<img src="img/Rides by Hour Day.png" alt= "image" width="70%" height="70%">
+
+### Average Ride Time
+<img src="img/Average Ride Time.png" alt= "image" width="70%" height="70%">
+
+### Ride Frequency by Starting Stations
+<p float="left">
+    <img src="img/Casual Start Station.png" alt= "image" width="70%" height="70%">
+    <img src="img/Member Start Station.png" alt= "image" width="70%" height="70%">
+</p>
+
+### Ride Frequency by Ending Stations
+<p float="left">
+    <img src="img/Casual End Station.png" alt= "image" width="70%" height="70%">
+    <img src="img/Member End Station.png" alt= "image" width="70%" height="70%">
+</p>
+
+
 
 ## Act
