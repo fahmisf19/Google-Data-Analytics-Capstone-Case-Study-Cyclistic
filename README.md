@@ -130,9 +130,9 @@ At the ending station, the situation remains the sane with the starting station,
 
 To effectively convert casual riders into annual members, i propose a comprehensive strategy:
 
-* Targeted seasonal promotions: launch targeted promotions during the summer, weekends, and set up near the most popular starting and ending stations for casual riders.
-* Offer discounted price: Introduce discounted pricing during peak commute hours, incentivizing regular ridership among casual riders, thereby making the transition to an annual membership more appealing.
-* Highlight membership convenience: show how annual memberships offer a hassle-free and cost-effective solution for daily travel needs.
-* Promote potential cost savings: Emphasize how settle for memberships can significantly reduce costs, making it an economically financial-wise choice for casual riders.
+* **Targeted seasonal promotions**: launch targeted promotions during the summer, weekends, and set up near the most popular starting and ending stations for casual riders.
+* **Offer discounted price**: Introduce discounted pricing during peak commute hours, incentivizing regular ridership among casual riders, thereby making the transition to an annual membership more appealing.
+* **Highlight membership convenience**: show how annual memberships offer a hassle-free and cost-effective solution for daily travel needs.
+* **Promote potential cost savings**: Emphasize how settle for memberships can significantly reduce costs, making it an economically financial-wise choice for casual riders.
 
 By implementing these strategic steps, Cyclistic can effectively convert casual riders to annual members, offering approach that resonate with their preferences and needs. This approach not only enhances user experience but also gives a deeper engagement with Cyclistic's bike services.
