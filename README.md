@@ -71,24 +71,24 @@ I use Tableau to visualize the outcomes of the earlier analysis queries. You can
 ### Total Rides by Bike Types
 Both annual members and casual riders prefer electric bikes (3,031,477 rides) over classic bikes (2,591,213 rides). Annual members made up 3,438,980 rides (61.1%), while casual riders had 2,183,710 rides (38.9%).
 
-<img src="img/Rides by Bike Types.png" alt= "image" width="40%" height="40%">
+<img src="img/Rides by Bike Types.png" alt= "image" width="50%" height="50%">
 
 ### Total Rides by Months
 Casual riders tend to use bikes more from March to July (late spring to mid summer), with a decline from August to February (late summer to late winter). This pattern might be attributed to deteriorating weather conditions that make biking less favorable during this period. On the other hand, annual members also display a preference for biking from February to August (late winter to late summer), with a decrease from September to January (early fall to mid winter). 
 
 Notably, annual members undertake a higher number of rides compared to casual riders and exhibit a more consistent ride count throughout the entire year.
 
-<img src="img/Rides by Months.png" alt= "image" width="40%" height="40%">
+<img src="img/Rides by Months.png" alt= "image" width="50%" height="50%">
 
 ### Total Rides by Day of Week
 Annual member frequently engage rides on weekdays, showing a decline over weekends. In contrast, casual riders experience their peak activity on Saturdays, showing distinct usage patterns between the two user groups.
 
-<img src="img/Rides by Day of Week.png" alt= "image" width="40%" height="40%">
+<img src="img/Rides by Day of Week.png" alt= "image" width="50%" height="50%">
 
 ### Total Rides by Hour
 Annual member exhibit a rise in activity during the morning hours of 6-8 AM and the late afternoon hours of 3-5 PM, while casual riders predominantly engage in rides from 1-6 PM. Interestingly, both user groups share the busiest hour at 5 PM, indicating a common peak in demand during this time.
 
-<img src="img/Rides by Hour Day.png" alt= "image" width="40%" height="40%">
+<img src="img/Rides by Hour Day.png" alt= "image" width="50%" height="50%">
 
 ### Average Ride Time
 Annual members showing an average ride time of 12.373 minutes, which is notably shorter compared to casual riders, who exhibit an average ride time of 20.868 minutes.
@@ -99,8 +99,8 @@ Annual members showing an average ride time of 12.373 minutes, which is notably 
 Casual riders tend to favor areas near parks and water, indicating a preference for leisurely rides in natural surroundings. Conversely, annual members frequently prefer for trips in commercial zones, exhibiting a more evenly distributed usage pattern across various areas.
 
 <p float="left">
-    <img src="img/Casual Start Station.png" alt= "image" width="40%" height="40%">
-    <img src="img/Member Start Station.png" alt= "image" width="40%" height="40%">
+    <img src="img/Casual Start Station.png" alt= "image" width="45%" height="45%">
+    <img src="img/Member Start Station.png" alt= "image" width="45%" height="45%">
 </p>
 
 ### Ride Frequency by Ending Stations
@@ -108,8 +108,8 @@ Casual riders tend to favor areas near parks and water, indicating a preference 
 At the ending station, the situation remains the sane with the starting station, indicating a consistent usage pattern from start to finish.
 
 <p float="left">
-    <img src="img/Casual End Station.png" alt= "image" width="40%" height="40%">
-    <img src="img/Member End Station.png" alt= "image" width="40%" height="40%">
+    <img src="img/Casual End Station.png" alt= "image" width="45%" height="45%">
+    <img src="img/Member End Station.png" alt= "image" width="45%" height="45%">
 </p>
 
 ### Summary
